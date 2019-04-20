@@ -1,0 +1,21 @@
+﻿.MissionLearn__section {
+    font-size: 1.00rem;
+    line-height: 1.75em;
+    letter-spacing: .5px;
+    max-width: 156.25rem;
+    padding: 2rem;
+    color: #363d49;
+}
+
+div {
+    display: block;
+}
+
+.TheMission__is_interactive {
+    pointer-events: auto;
+    height: 100%;
+}
+
+body{
+    overflow: hidden;
+}

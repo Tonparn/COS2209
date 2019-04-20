@@ -1,0 +1,32 @@
+﻿@page "/"
+@layout MainLayout
+@inherits HomeModel
+
+@if (UserState.IsLoggedIn)
+{
+    UriHelper.NavigateTo("/learning");
+}
+
+<div class="landing">
+    <div class="dark-overlay landing-inner text-light">
+        <div class="container" style="position:relative; padding:35px 0 30px 0;">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <h1 class="display-3 mb-4">
+                        Developer Cloning
+                    </h1>
+                    <p class="lead">
+                        Learn Python, R, SQL, data visualization, data analysis, and machine learning.
+                    </p>
+                    <hr />
+                    <a href="register" class="btn btn-lg btn-info mr-2">
+                        Sign Up
+                    </a>
+                    <a href="login" class="btn btn-lg btn-light">
+                        Login
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

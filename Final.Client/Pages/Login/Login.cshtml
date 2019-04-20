@@ -1,0 +1,42 @@
+﻿@page "/login"
+@layout MainLayout
+@inherits LoginModel
+
+@if(UserState.IsLoggedIn)
+{
+    UriHelper.NavigateTo("/");
+}
+
+<div class="login">
+    <div class="container position">
+        <div class="row">
+            <div class="col-md-8 m-auto">
+
+                <h1 class="display-4 text-center">Log In</h1>
+                <p class="lead text-center">Sign in to your DataCloning.io account</p>
+
+                <EditForm Model="@Credens" OnValidSubmit="@(async () => await Login())">
+                    <DataAnnotationsValidator />
+                    <div class="form-group">
+                        <input type="email" bind=@Credens.Email placeholder="Email" class="form-control form-control-lg" />
+                    </div>
+                    <div class="form-group">
+                        <input type="password" bind=@Credens.Password placeholder="Password" class="form-control form-control-lg" />
+                    </div>
+                    <button type="submit" class="btn btn-info btn-block mt-4">Submit</button>
+                    <hr />
+
+                    <ValidationSummary />
+                </EditForm>
+                <hr />
+
+                @if (ShowLoginFailed)
+                {
+                    <div class="alert alert-danger" style="color:red">
+                        @ShowStatus
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>

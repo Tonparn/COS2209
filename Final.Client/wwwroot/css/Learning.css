@@ -1,0 +1,63 @@
+﻿.learning-position {
+    position: relative;
+    padding: 35px 0 30px 0;
+}
+
+.learning-position-row {
+    position: fixed;
+    left: 0;
+    width: 100%;
+    margin: 0;
+    height: 85%;
+    overflow: scroll;
+}
+
+.learning-submit-hint {
+    width: 80px;
+    float: left;
+    left: 0;
+    text-align: center;
+    padding-left: 10px
+}
+
+.learning-container-submit {
+    text-align: center;
+    position: relative;
+}
+
+.learning-submit-back {
+    margin-right: 40px;
+}
+
+.learning-submit-next {
+    margin-right: 20px;
+}
+
+.learning-position-footer {
+    position: fixed;
+    bottom: 0;
+}
+
+.learning-lesson-name {
+    z-index: 100;
+    float: left;
+    margin: 5px;
+    margin-left: 20px;
+    font-size: 18px;
+    position: fixed
+}
+
+.learning-container-iframe {
+    position: fixed;
+    right: 0;
+    height: 83%;
+    width: 100%;
+    margin: 0;
+}
+
+.learning-iframe {
+    width: 100%;
+    border: none;
+    height: 100%;
+    overflow: hidden;
+}

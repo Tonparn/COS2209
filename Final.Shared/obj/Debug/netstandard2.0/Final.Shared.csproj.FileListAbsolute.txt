@@ -1,0 +1,9 @@
+E:\COS2209\Final\Final.Shared\bin\Debug\netstandard2.0\Final.Shared.deps.json
+E:\COS2209\Final\Final.Shared\bin\Debug\netstandard2.0\Final.Shared.dll
+E:\COS2209\Final\Final.Shared\bin\Debug\netstandard2.0\Final.Shared.pdb
+E:\COS2209\Final\Final.Shared\obj\Debug\netstandard2.0\Final.Shared.csprojAssemblyReference.cache
+E:\COS2209\Final\Final.Shared\obj\Debug\netstandard2.0\Final.Shared.csproj.CoreCompileInputs.cache
+E:\COS2209\Final\Final.Shared\obj\Debug\netstandard2.0\Final.Shared.AssemblyInfoInputs.cache
+E:\COS2209\Final\Final.Shared\obj\Debug\netstandard2.0\Final.Shared.AssemblyInfo.cs
+E:\COS2209\Final\Final.Shared\obj\Debug\netstandard2.0\Final.Shared.dll
+E:\COS2209\Final\Final.Shared\obj\Debug\netstandard2.0\Final.Shared.pdb

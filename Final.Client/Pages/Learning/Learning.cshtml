@@ -1,0 +1,53 @@
+﻿@page  "/learning"
+@layout MainLayout
+@inherits LearningModel
+
+<div class="container-fluid learning-position">
+    <div class="row no-gutters">
+
+        @if (LearningState.Learning.Editor)
+        {
+            <div class="col-6 col-md-5 learning-position-row">
+
+                @((MarkupString)LearningState.Learning.Html)
+
+                @if (!string.IsNullOrEmpty(LearningState.Learning.Hint))
+                {
+                    <button onclick="@(() => SubmitHint())" class="btn btn-danger learning-submit-hint">
+                        Hint
+                    </button>
+                }
+
+                @if (LearningState.Learning.HintFlag)
+                {
+                    <div class="container lead" style="padding: 10px;">
+                        @((MarkupString)LearningState.Learning.Hint)
+                    </div>
+                }
+
+            </div>
+            <div class="col-12 col-sm-6 col-md-7 learning-container-iframe">
+                <iframe id="Iframe" class="learning-iframe" scrolling="no" src="@LearningState.Jupyter"></iframe>
+            </div>
+        }
+        else
+        {
+            <div class="learning-position-row">
+
+                @((MarkupString)LearningState.Learning.Html)
+
+            </div>
+        }
+
+    </div>
+</div>
+
+<footer class="navbar-expand-sm bg-dark text-white mt-5 p-2 text-center learning-position-footer">
+    <div class="learning-lesson-name">
+        @LearningState.Learning.Lesson
+    </div>
+    <div class="container learning-container-submit ">
+        <button onclick="@(() => BackLesson())" class="btn btn-danger learning-submit-back">Back</button>
+        <button onclick="@(() => NextLesson())" class="btn btn-danger learning-submit-next">Next</button>
+    </div>
+</footer>

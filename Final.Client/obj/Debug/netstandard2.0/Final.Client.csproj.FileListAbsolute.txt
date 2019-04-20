@@ -1,0 +1,356 @@
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Final.Client.blazor.config
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Final.Client.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Final.Client.pdb
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Final.Client.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Final.Shared.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Browser.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.JSInterop.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Mono.WebAssembly.Interop.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\mscorlib.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.ComponentModel.Annotations.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Core.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Net.Http.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\wasm\mono.js
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\wasm\mono.wasm
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\components.server.js
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\components.webassembly.js
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Final.Client.pdb
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Final.Shared.pdb
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\blazor.boot.json
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Components.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Components.Browser.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Microsoft.JSInterop.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Mono.WebAssembly.Interop.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Final.Shared.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Final.Shared.pdb
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Final.Client.csprojAssemblyReference.cache
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Final.Client.csproj.CoreCompileInputs.cache
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Final.Client.RazorComponent.input.cache
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\RazorDeclaration\App.cshtml.g.cs
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\RazorDeclaration\Shared\MainLayout.cshtml.g.cs
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\RazorDeclaration\_ViewImports.cshtml.g.cs
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Final.Client.AssemblyInfoInputs.cache
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Final.Client.AssemblyInfo.cs
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Final.Client.RazorTargetAssemblyInfo.cache
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Final.Client.csproj.CopyComplete
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Final.Client.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Final.Client.pdb
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\inputs.linkerswitch.cache
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\inputs.basic.cache
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\inputs.copylocal.txt
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker.descriptor.xml
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\inputs.linker.cache
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linked.assemblies.txt
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Final.Client.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Final.Shared.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Browser.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.JSInterop.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Mono.WebAssembly.Interop.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\mscorlib.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.ComponentModel.Annotations.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Core.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Net.Http.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Final.Client.pdb
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Final.Shared.pdb
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\inputs.bootjson.cache
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\blazor.boot.json
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Blazored.LocalStorage.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Blazored.LocalStorage.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Mono.Security.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Newtonsoft.Json.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Data.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Numerics.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Runtime.Serialization.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Xml.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Xml.Linq.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Newtonsoft.Json.pdb
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_content\Blazored.LocalStorage\blazored.LocalStorage.js
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_content\Blazored.LocalStorage\blazored.LocalStorage.js.map
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Blazored.LocalStorage.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Mono.Security.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Newtonsoft.Json.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Data.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Numerics.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Runtime.Serialization.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Xml.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Xml.Linq.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Newtonsoft.Json.pdb
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\_content\Blazored.LocalStorage\blazored.LocalStorage.js
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\_content\Blazored.LocalStorage\blazored.LocalStorage.js.map
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\RazorDeclaration\Pages\_ViewImports.cshtml.g.cs
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Home\Home.cshtml.g.cs
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Login\Login.cshtml.g.cs
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Register\Register.cshtml.g.cs
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Toolbelt.Blazor.HttpClientInterceptor.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Toolbelt.Blazor.LoadingBar.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_content\Toolbelt.Blazor.LoadingBar\script.js
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_content\Toolbelt.Blazor.LoadingBar\script.js.map
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_content\Toolbelt.Blazor.LoadingBar\style.css
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Toolbelt.Blazor.HttpClientInterceptor.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Toolbelt.Blazor.LoadingBar.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Toolbelt.Blazor.HttpClientInterceptor.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Toolbelt.Blazor.LoadingBar.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\_content\Toolbelt.Blazor.LoadingBar\script.js
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\_content\Toolbelt.Blazor.LoadingBar\script.js.map
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\_content\Toolbelt.Blazor.LoadingBar\style.css
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Blazaco.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Blazaco.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Learning\Learning.cshtml.g.cs
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\JWT.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Collections.Concurrent.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.ComponentModel.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.ComponentModel.Primitives.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Linq.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Reflection.TypeExtensions.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Runtime.Numerics.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Security.Cryptography.Algorithms.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Security.Cryptography.Csp.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Security.Cryptography.Encoding.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Security.Cryptography.Primitives.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Threading.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\JWT.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\System.Collections.Concurrent.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\System.ComponentModel.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\System.ComponentModel.Primitives.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\System.Linq.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\System.Reflection.TypeExtensions.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\System.Runtime.Numerics.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\System.Security.Cryptography.Primitives.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\System.Threading.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\debian.8-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\fedora.23-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\fedora.24-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\opensuse.13.2-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\opensuse.42.1-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\osx.10.10-x64\native\System.Security.Cryptography.Native.Apple.dylib
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\osx.10.10-x64\native\System.Security.Cryptography.Native.OpenSsl.dylib
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\rhel.7-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\ubuntu.14.04-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\ubuntu.16.04-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\ubuntu.16.10-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\osx\lib\netstandard1.6\System.Security.Cryptography.Algorithms.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\unix\lib\netstandard1.6\System.Security.Cryptography.Algorithms.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\win\lib\netstandard1.6\System.Security.Cryptography.Algorithms.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\unix\lib\netstandard1.3\System.Security.Cryptography.Csp.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\win\lib\netstandard1.3\System.Security.Cryptography.Csp.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\unix\lib\netstandard1.3\System.Security.Cryptography.Encoding.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\win\lib\netstandard1.3\System.Security.Cryptography.Encoding.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\JWT.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Collections.Concurrent.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.ComponentModel.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.ComponentModel.Primitives.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Linq.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Reflection.TypeExtensions.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Runtime.Numerics.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Security.Cryptography.Algorithms.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Security.Cryptography.Csp.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Security.Cryptography.Encoding.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Security.Cryptography.Primitives.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Threading.dll
+E:\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Dropbox.Api.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Dropbox.Api.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\RazorDeclaration\Final.Client.dll
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Final.Client.TagHelpers.input.cache
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Final.Client.TagHelpers.output.cache
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Final.Client.RazorCoreGenerate.cache
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Razor\App.cshtml.g.cs
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Razor\Pages\Home\Home.cshtml.g.cs
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Razor\Pages\Learning\Learning.cshtml.g.cs
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Razor\Pages\Login\Login.cshtml.g.cs
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Razor\Pages\Register\Register.cshtml.g.cs
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Razor\Shared\MainLayout.cshtml.g.cs
+E:\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Razor\_ViewImports.cshtml.g.cs
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Final.Client.blazor.config
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Final.Client.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Final.Client.pdb
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Blazaco.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Blazored.LocalStorage.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Dropbox.Api.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Final.Client.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Final.Shared.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\JWT.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.Browser.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.AspNetCore.Components.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Microsoft.JSInterop.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Mono.Security.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Mono.WebAssembly.Interop.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\mscorlib.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Newtonsoft.Json.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Collections.Concurrent.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.ComponentModel.Annotations.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.ComponentModel.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.ComponentModel.Primitives.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Core.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Data.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Linq.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Net.Http.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Numerics.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Reflection.TypeExtensions.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Runtime.Numerics.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Runtime.Serialization.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Security.Cryptography.Csp.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Threading.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Xml.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\System.Xml.Linq.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Toolbelt.Blazor.HttpClientInterceptor.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Toolbelt.Blazor.LoadingBar.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\wasm\mono.js
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\wasm\mono.wasm
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\components.server.js
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\components.webassembly.js
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Final.Client.pdb
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Final.Shared.pdb
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\_bin\Newtonsoft.Json.pdb
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_framework\blazor.boot.json
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_content\Blazored.LocalStorage\blazored.LocalStorage.js
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_content\Blazored.LocalStorage\blazored.LocalStorage.js.map
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_content\Toolbelt.Blazor.LoadingBar\script.js
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_content\Toolbelt.Blazor.LoadingBar\script.js.map
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\dist\_content\Toolbelt.Blazor.LoadingBar\style.css
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Blazored.LocalStorage.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\JWT.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Components.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Components.Browser.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Microsoft.JSInterop.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Mono.WebAssembly.Interop.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\System.Collections.Concurrent.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\System.ComponentModel.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\System.ComponentModel.Primitives.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\System.Linq.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\System.Reflection.TypeExtensions.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\System.Runtime.Numerics.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\System.Threading.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Toolbelt.Blazor.HttpClientInterceptor.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Toolbelt.Blazor.LoadingBar.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\debian.8-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\fedora.23-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\fedora.24-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\opensuse.13.2-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\opensuse.42.1-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\osx.10.10-x64\native\System.Security.Cryptography.Native.Apple.dylib
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\osx.10.10-x64\native\System.Security.Cryptography.Native.OpenSsl.dylib
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\rhel.7-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\ubuntu.14.04-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\ubuntu.16.04-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\ubuntu.16.10-x64\native\System.Security.Cryptography.Native.OpenSsl.so
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\osx\lib\netstandard1.6\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\unix\lib\netstandard1.6\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\win\lib\netstandard1.6\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\unix\lib\netstandard1.3\System.Security.Cryptography.Csp.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\win\lib\netstandard1.3\System.Security.Cryptography.Csp.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\unix\lib\netstandard1.3\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\runtimes\win\lib\netstandard1.3\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Final.Shared.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\bin\Debug\netstandard2.0\Final.Shared.pdb
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Final.Client.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Final.Client.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Final.Client.RazorComponent.input.cache
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\RazorDeclaration\App.cshtml.g.cs
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Home\Home.cshtml.g.cs
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Learning\Learning.cshtml.g.cs
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Login\Login.cshtml.g.cs
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Register\Register.cshtml.g.cs
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\RazorDeclaration\Pages\_ViewImports.cshtml.g.cs
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\RazorDeclaration\Shared\MainLayout.cshtml.g.cs
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\RazorDeclaration\_ViewImports.cshtml.g.cs
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\RazorDeclaration\Final.Client.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Final.Client.TagHelpers.input.cache
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Final.Client.TagHelpers.output.cache
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Final.Client.RazorCoreGenerate.cache
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Razor\App.cshtml.g.cs
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Razor\Pages\Home\Home.cshtml.g.cs
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Razor\Pages\Learning\Learning.cshtml.g.cs
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Razor\Pages\Login\Login.cshtml.g.cs
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Razor\Pages\Register\Register.cshtml.g.cs
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Razor\Shared\MainLayout.cshtml.g.cs
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Razor\_ViewImports.cshtml.g.cs
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Final.Client.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Final.Client.AssemblyInfo.cs
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Final.Client.RazorTargetAssemblyInfo.cache
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Final.Client.csproj.CopyComplete
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Final.Client.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\Final.Client.pdb
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\inputs.linkerswitch.cache
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\inputs.basic.cache
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\inputs.copylocal.txt
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker.descriptor.xml
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\inputs.linker.cache
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linked.assemblies.txt
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Blazaco.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Blazored.LocalStorage.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Dropbox.Api.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Final.Client.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Final.Shared.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\JWT.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Browser.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.JSInterop.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Mono.Security.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Mono.WebAssembly.Interop.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\mscorlib.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Newtonsoft.Json.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Collections.Concurrent.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.ComponentModel.Annotations.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.ComponentModel.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.ComponentModel.Primitives.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Core.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Data.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Linq.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Net.Http.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Numerics.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Reflection.TypeExtensions.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Runtime.Numerics.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Runtime.Serialization.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Security.Cryptography.Csp.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Threading.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Xml.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\System.Xml.Linq.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Toolbelt.Blazor.HttpClientInterceptor.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Toolbelt.Blazor.LoadingBar.dll
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Final.Client.pdb
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Final.Shared.pdb
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\linker\Newtonsoft.Json.pdb
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\inputs.bootjson.cache
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\blazor.boot.json
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\_content\Blazored.LocalStorage\blazored.LocalStorage.js
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\_content\Blazored.LocalStorage\blazored.LocalStorage.js.map
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\_content\Toolbelt.Blazor.LoadingBar\script.js
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\_content\Toolbelt.Blazor.LoadingBar\script.js.map
+C:\Users\admin\Downloads\COS2209 (2)\COS2209\Final\Final.Client\obj\Debug\netstandard2.0\blazor\_content\Toolbelt.Blazor.LoadingBar\style.css
